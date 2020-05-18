@@ -34,7 +34,7 @@
       </div>
     </div>
   @else
-    <p>No Albums To Display</p>
+    <p>No Albums To Displayyy</p>
   @endif
 
 @endsection
