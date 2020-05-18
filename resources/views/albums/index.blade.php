@@ -33,6 +33,7 @@
         @endforeach
       </div>
     </div>
+    <img src="test.jpeg">
   @else
     <p>No Albums To Displayyy</p>
   @endif
