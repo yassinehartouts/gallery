@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script data-ad-client="ca-pub-6074738390091469" 
-    async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script data-ad-client="ca-pub-6074738390091469"
+     async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     
     <meta charset="utf-8">
     <title>PhotoShow</title>
